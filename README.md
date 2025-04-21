@@ -33,7 +33,7 @@ cd medicare
 ```
 # 🚀 Install dependencies
   - npm install
-if any issues arise, run the following command:
+  - if any issues arise, run the following command:
     npm install --force
 
 # 🚀 Run the development server
